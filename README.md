@@ -34,5 +34,23 @@ TypeScript tsconfig.json
 Running Angular 8 Client Application
 Demo
 
-![project screen](/images/screenshot1.png)
+![project screen](/images/screenshot1.jpg)
 
+#### Server-side technologies
+Spring Boot - 2.0.5.RELEASE
+JDK - 1.8 or later
+Spring Framework - 5.0.8 RELEASE
+Hibernate - 5.2.17.Final
+Spring Data JPA - 2+
+
+#### Front end technologies
+Angular 8.0.0
+Bootstrap 4
+npm- 6.9.0
+JQuery
+
+#### Tools
+Maven - 3.2+
+IDE - Eclipse or Spring Tool Suite (STS) // Spring boot API development
+Visual Studio 2017 // Angular App development
+Angular CLI
